@@ -1,0 +1,3 @@
+Command untuk preprocessing: g++ -E nama_file.cpp > nama.p 
+
+Command untuk compile menjadi obj_file: g++ -C nama_file.cpp -> objdump nama_file.o -d
